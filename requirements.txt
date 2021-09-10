@@ -1,0 +1,4 @@
+py-dict-client==0.1.5
+nltk==3.5
+PyYAML==5.3.1
+prompt-toolkit==3.0.5
